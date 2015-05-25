@@ -28,7 +28,7 @@
   <parent>
     <groupId>org.kiji.pom</groupId>
     <artifactId>root-pom</artifactId>
-    <version>1.2.1-SNAPSHOT</version>
+    <version>1.3.0-NG</version>
   </parent>
 
   <name>Kiji platform definition top-level project</name>
@@ -48,6 +48,8 @@
     <module>kiji-cdh5-0-test-platform</module>
     <module>kiji-cdh5-1-platform</module>
     <module>kiji-cdh5-1-test-platform</module>
+    <module>kiji-cdh5-3-platform</module>
+    <module>kiji-cdh5-3-test-platform</module>
     <module>kiji-compile-platform</module>
     <module>kiji-test-platform</module>
     <module>kiji-cassandra-platform</module>
